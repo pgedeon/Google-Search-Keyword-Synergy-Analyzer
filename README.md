@@ -5,3 +5,7 @@ Google Search Analyzer is a powerful web-based tool designed to extract and anal
 Live Demo Available Here: https://google-keyword-synergy-checker.glitch.me/
 
 Google Colab: https://colab.research.google.com/drive/15Y_GQNt0HiDKgV81UX7e0wYrtdIPOuu-?usp=sharing
+
+---
+
+[![Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-PayPal-blue)](https://www.paypal.com/donate/?business=petermgedeon%40gmail.com)
